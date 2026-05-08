@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Interview Case"
+  short_description: "Create tailored frontend interview cases"
+  default_prompt: "Use $frontend-interview-case to create a frontend technical case from this CV."

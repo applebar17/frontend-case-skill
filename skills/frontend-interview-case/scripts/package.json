@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "render-pdf": "node render_pdf.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
