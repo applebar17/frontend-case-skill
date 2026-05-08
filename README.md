@@ -23,7 +23,7 @@ skills/
 From Codex, after this repo is pushed to GitHub:
 
 ```text
-Install the Codex skill from GitHub repo <org>/<repo> path skills/frontend-interview-case.
+Install the Codex skill from GitHub repo applebar17/frontend-case-skill path skills/frontend-interview-case.
 ```
 
 For private repos, normal GitHub credentials, `GH_TOKEN`, or `GITHUB_TOKEN` can be used by the installer.
